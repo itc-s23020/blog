@@ -3,7 +3,7 @@ import { useRouter } from 'next/router'
 
 import { siteMeta } from 'lib/constants'
 
-import siteImg from 'next-react-website/blog-app-router/images/ogp.jpg'
+import siteImg from 'images/ogp.jpg'
 const {
   siteTitle,
   siteDesc,
